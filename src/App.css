@@ -1,0 +1,98 @@
+body{
+    background-color: rgb(110, 102, 102);
+}
+
+.main{
+    background-color: aqua;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+ padding: 3rem;
+ padding-left: 16rem;
+ padding-right: 16rem;
+ border-radius: 10px;
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+}
+
+.title{
+    font-family: cursive;
+}
+
+.nameBox{
+    padding: 15px;
+    border-radius: 6px;
+    border: none;
+    background-color: rgb(63, 59, 59);
+    color: aliceblue;
+ 
+}
+
+.nameBox2{
+    padding: 15px;
+    border-radius: 6px;
+    border: none;
+    background-color: rgb(51, 58, 52);
+    color: aliceblue;
+}
+
+.button{
+    padding: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 8px;
+    border: none;
+    background-color: rgb(48, 196, 48);
+    margin-right: 25px;
+}
+
+.button2{
+    padding: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 8px;
+    border: none;
+    background-color: rgb(207, 133, 37);
+    margin-right: 25px;
+}
+
+.infoBox{
+    background-color: rgb(130, 185, 185);
+    align-items: center;
+    text-align: center;
+    margin: auto;
+ padding: 2rem;
+ padding-left: 16rem;
+ padding-right: 16rem;
+ border-radius: 10px;
+ font-family: "Lucida Console";
+}
+
+.editBtn{
+    padding: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 8px;
+    border: none;
+    background-color: rgb(173, 37, 207);
+    margin-left: 10px;
+    color: rgb(197, 198, 199);
+}
+
+.deleteBtn{
+    padding: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 8px;
+    border: none;
+    background-color: rgb(218, 63, 35);
+    margin-left: 8px;
+    color: aliceblue;
+}
+
+.list{
+    margin-bottom: 15px;
+}
